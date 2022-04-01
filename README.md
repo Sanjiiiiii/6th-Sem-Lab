@@ -1,1 +1,1 @@
-# 6th-Sem-Lab
+Lab Manuals
